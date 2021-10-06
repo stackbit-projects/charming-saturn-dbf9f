@@ -15,7 +15,7 @@ sections:
         style: secondary
       - label: Contact
         url: '#'
-        style: link
+        style: primary
         new_window: false
         no_follow: false
     align: left
