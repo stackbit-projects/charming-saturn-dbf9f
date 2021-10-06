@@ -18,6 +18,11 @@ sections:
         style: link
         new_window: false
         no_follow: false
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: left
     image: images/innerroom1.jpg
     image_alt: Hero placeholder image
