@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Isabelle Robinson
+    title: Isabelle Robinson Art
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
