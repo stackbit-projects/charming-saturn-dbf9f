@@ -10,7 +10,7 @@ sections:
       - label: Gallery
         url: /features
         style: primary
-      - label: Contact Us
+      - label: About Me
         url: /contact
         style: secondary
     align: left
