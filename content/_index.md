@@ -18,7 +18,7 @@ sections:
         style: link
         new_window: false
         no_follow: false
-    align: center
+    align: left
     image: images/innerroom1.jpg
     image_alt: Hero placeholder image
     image_position: right
