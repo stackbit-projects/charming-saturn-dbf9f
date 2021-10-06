@@ -13,7 +13,7 @@ sections:
       - label: About Me
         url: /contact
         style: secondary
-      - label: lorem-ipsum
+      - label: Contact
         url: '#'
         style: link
         new_window: false
